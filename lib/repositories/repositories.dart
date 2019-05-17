@@ -1,1 +1,1 @@
-export 'weather_repository.dart';
+export 'package:weather_bloc/repositories/weather_repository.dart';

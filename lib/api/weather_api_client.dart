@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:meta/meta.dart';
 import 'package:http/http.dart' as http;
 
-import '../models/models.dart';
+import 'package:weather_bloc/models/models.dart';
 
 class WeatherApiClient {
   static const baseUrl = 'https://www.metaweather.com';
